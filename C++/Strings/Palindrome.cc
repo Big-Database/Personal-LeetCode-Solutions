@@ -36,7 +36,7 @@ public:
                 }
                 left++; 
                 right--; 
-            } 
+            }
         }
         std::cout<< start<< " "<< end<<std::endl; 
         return s.substr(start,end-start+1);

@@ -1,0 +1,500 @@
+    2  ls
+    3  cd css_course/
+    4  ls
+    5  cd 09_lesson_starter/
+    6  ls
+    7  ls
+    8  code index.html 
+    9  cat ~/.bash_profile
+   10  cat ~/.bash_profile
+   11  node --version
+   12  ssh cs136
+   13  ssh cs246
+   14  ls
+   15  cd Documents/Side\ Projects/wkss/
+   16  vim text.txt
+   17  ls -a
+   18  cat ./bash_profile
+   19  cat .bash_profile
+   20  ssh cs246
+   21  ADD X2,X1,X31
+   22  clear
+   23  ssh cs246
+   24  ssh cs246
+   25  ssh cs246
+   26  ssh cs246
+   27  ssh cs246
+   28  ssh cs246
+   29  ls
+   30  mkdir css_course
+   31  clone https://github.com/gitdagray/css_course.git
+   32  git clone https://github.com/gitdagray/css_course.git
+   33  cd css_course/
+   34  ls
+   35  cd 09_lesson_starter/
+   36  ls
+   37  code css
+   38  cat << EOF >> ~/.bash_profile
+   39  ls
+   40  code css
+   41  code .
+   42  ls
+   43  cd ..
+   44  ls
+   45  cd ..
+   46  ls
+   47  cd react/
+   48  ls
+   49  cd my-react-app/
+   50  ls
+   51  code index.html 
+   52  ls
+   53  cd photographer-portfolio/
+   54  npm install
+   55  npm run dev
+   56  npm run dev
+   57  ls
+   58  npm create vite@latest
+   59  ls
+   60  cd photographer-portfolio/
+   61  ls
+   62  ls
+   63  cd photographer-portfolio/
+   64  ls
+   65  npm install react-scroll
+   66  npm run de
+   67  npm run dev
+   68  ls
+   69  cat /Users/timomichaelis/.npm/_logs/2025-05-18T02_23_07_028Z-debug-0.log
+   70  cat /Users/timomichaelis/.npm/_logs/2025-05-18T02_29_14_408Z-debug-0.log
+   71  ls
+   72  cd ..
+   73  ls
+   74  cd ..
+   75  ls
+   76  cd Test/
+   77  ls
+   78  git pull
+   79  git branch
+   80  git pull main
+   81  git pull remote mai
+   82  git pull remote main
+   83  git pull origin main
+   84  git branch
+   85  git pull --rebase
+   86  git pull --rebase origin main
+   87  git rebase --skip
+   88  git pull origin main
+   89  git add .
+   90  git commint -m"Update with OOC and aing job"
+   91  git commit -m"Update with OOC and aing job"
+   92  git push
+   93  git push origin main
+   94  git add *
+   95  git push origin main
+   96  git add *
+   97  git commit -m"index update"
+   98  git push origin main
+   99  git add *
+  100  git commint -m"png fix 1"
+  101  git commit -m"png fix 1"
+  102  git push origin main
+  103  ls
+  104  git add *
+  105  git commit -m"fix image"
+  106  git push main origin
+  107  git push origin main
+  108  git add *
+  109  git git add *
+  110  git add *
+  111  git commit -m"added footer"
+  112  git push origin main
+  113  ls
+  114  cd Documents/
+  115  ls
+  116  vim test.wlp4
+  117  ls
+  118  cd block
+  119  cd blockchain/
+  120  ls
+  121      python3 -m venv .venv
+  122      source .venv/bin/activate
+  123  python3 main.py
+  124  python3 main.py
+  125  python3 main.py
+  126  pip install pycryptodome
+  127  pip list
+  128  ls
+  129      source .venv/bin/activate
+  130  python3 main.py
+  131  python3 main.py
+  132  /Users/timomichaelis/.pyenv/versions/3.12.0/bin/python /Users/timomichaelis/.cursor/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/timomichaelis/.cursor/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/deactivate/bash/envVars.txt
+  133  /Users/timomichaelis/.pyenv/versions/3.12.0/bin/python /Users/timomichaelis/.cursor/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/timomichaelis/.cursor/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/deactivate/bash/envVars.txt
+  134  python3 main.py
+  135      source .venv/bin/activate
+  136  python3 main.py
+  137  pip install pycryptodome
+  138  python3 main.py
+  139  ls -a
+  140  ls -a | egrep "bash"
+  141  cat .bash_profile
+  142  cat .bash_profile | egrep "ubuntu"
+  143  cat .bash_profile | egrep "cs246"
+  144  cat .bashsrc
+  145  cat .bashrc
+  146  cat .bash_history 
+  147  cat .bash_history | "trmmicha"
+  148  cat .bash_history | "ubuntu"
+  149  cat .bash_history | egrep "ubuntu"
+  150  ssh cs246
+  151  ssh cs246
+  152  64;45;29M64;45;29M64;45;29M64;45;29M64;45;29M64;45;29M64;45;29M64;45;29M64;45;29M64;45;29M64;45;29M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M65;58;46M65;58;46M65;58;46M65;58;46M65;58;46M65;58;46M65;58;46M65;58;46M65;58;46M65;58;46M65;58;46M65;58;46M65;58;46M65;58;46M65;58;46M65;58;46M65;58;46M65;58;46M65;58;46M65;58;46M65;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64;58;46M64
+  153  clear
+  154  0;1;2M0;1;2m0;1;1M0;1;1m0;1;1M0;1;1m0;1;1M0;1;1m0;119;28M0;119;28
+  155  clear
+  156  ssh cs246
+  157  q
+  158  ls
+  159  ssh cs246
+  160  q
+  161  clear
+  162  ls
+  163  ssh cs246
+  164  q
+  165  ls
+  166  ls -a
+  167  cat .bash_history
+  168  clear
+  169  ls -a
+  170  cat .bash_profile
+  171  ssh cs246
+  172  ls
+  173  cd Documents/
+  174  ls
+  175  cd Year\ 2
+  176  ls
+  177  cd Term\ 2
+  178  ls
+  179  cd cs241
+  180  ls
+  181  code codegen.cc
+  182  touch codegen.cc
+  183  ssh cs246
+  184  ls
+  185  cd desktop
+  186  ls
+  187  echo "add $3, $1, $2" > miptest.mip
+  188  ls
+  189  ssh cs246
+  190  ssh cs246
+  191  ssh cs246
+  192  s
+  193  ssh cs246
+  194  0;233;64M0;233;64mq
+  195  ssh cs246
+  196  ssh cs246
+  197  ls
+  198  ssh cs246
+  199  clear
+  200  gh repo clone Big-Database/WithinBlack-White
+  201  cd WithinBlack-White/
+  202  ls
+  203  mdkir frontend
+  204  mkdir frontend
+  205  mkdir backend
+  206  ls
+  207  cd frontend
+  208  code test.cc
+  209  code test.cc
+  210  which -a code
+  211  ls -l /usr/local/bin/code 2>/dev/null || true
+  212  ls -l /opt/homebrew/bin/code 2>/dev/null || true
+  213  which -a code
+  214  ls "/Applications/Visual Studio Code.app" && echo "VS Code found"
+  215  code test.cc
+  216  echo $PATH | tr ":" "\n"
+  217  which -a code
+  218  echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.bash_profile
+  219  source ~/.bash_profile
+  220  ls
+  221  ls -a
+  222  source .bash_profile
+  223  which -a code
+  224  ls
+  225  cd WithinBlack-White/
+  226  ls
+  227  cd back
+  228  cd backend/
+  229  npm install express@4.18.2
+  230  code server.js
+  231  npm run server.js
+  232  history
+  233  npm install express@4.18.2 --save
+  234  npm audit
+  235  node server.js
+  236  npm install nodemon -D
+  237  npm install nodemon -D
+  238  ls
+  239  mkdir routes
+  240  cd routes
+  241  ls
+  242  code notesRoutes.js
+  243  npm run dev
+  244  cd ..
+  245  mkdir controllers
+  246  cd controllers/
+  247  code notesController.js
+  248  cd ..
+  249  ls
+  250  npm install mongoose@7.0.3
+  251  npm run dev
+  252  mkdir src
+  253  npm run dev
+  254  npm run dev
+  255  npm run dev
+  256  cd ..
+  257  git add *
+  258  git commit -m"50:54"
+  259  ls
+  260  cd backend/
+  261  ls
+  262  cd src
+  263  ls
+  264  mkdir config
+  265  ls
+  266  cd config/
+  267  ls
+  268  code db.js
+  269  cd ..
+  270  cd ..
+  271  npm run dev
+  272  npm run dev
+  273  ls
+  274  cd src
+  275  ls
+  276  mkdir models
+  277  cd models/
+  278  code Note.js
+  279  npm run dev
+  280  cd ..
+  281  cd ..
+  282  npm run dev
+  283  npm i @upstash/ratelimit@2.0.5 @upstash/redis@1.34.9 
+  284  ls
+  285  cd src/
+  286  ls
+  287  cd config/
+  288  ls
+  289  code upstash.js
+  290  cd ..
+  291  cd ..
+  292  ls
+  293  cd src
+  294  ls
+  295  mkdir middleware
+  296  cd middleware/
+  297  ks
+  298  ls
+  299  code rateLimiter.js
+  300  cd ..
+  301  cd ..
+  302  npm run dev
+  303  npm run dev
+  304  cd ..
+  305  code .gitignore
+  306  git add *
+  307  git commit"1:46"
+  308  git commit -m "1:46"
+  309  cd frontend/
+  310  ls
+  311  npm create vite@latest
+  312  npm create vite@6.5.0
+  313  npm install
+  314  cd ..
+  315  cd ..
+  316  ls
+  317  cd Documents/Side\ Projects/Angie/WithinBlack-White/
+  318  ls
+  319  mkdir frontend
+  320  lscd frontend/
+  321  cd frontend
+  322  ls
+  323  npm create vite@latest
+  324  cd withinBlackandWhite/
+  325  npm install
+  326  nprm run dev
+  327  npm run dev
+  328  npm i react-router
+  329  npm i-react-hot-toast
+  330  npm i react-hot-toast
+  331  ls
+  332  cd src/
+  333  ls
+  334  mkdir pages
+  335  cd pages
+  336  ls
+  337  code homepage.jsx
+  338  code createPage.jsx
+  339  code notedetailPage.jsx
+  340  code NoteDetailPage.jsx
+  341  ls
+  342  code HomePage
+  343  code HomePage.jsx
+  344  ls
+  345  code code CreatePage.jsx
+  346  code CreatePage.jsx
+  347  code NoteDetailPage.jsx
+  348  npm run dev
+  349  cd ../..
+  350  ls
+  351  npm install -D tailwindcss@3 postcss autoprefixer
+  352  npx tailwindcss init -p
+  353  npm run dev
+  354  npm i -D daisyui@4.12.24
+  355  npm run dev
+  356  ls
+  357  cd src/
+  358  ls
+  359  cd pages/
+  360  ls
+  361  code Portfolio.js
+  362  code About.js
+  363  cd ..
+  364  ls
+  365  mkdir components
+  366  ls
+  367  cd components/
+  368  ls
+  369  ls
+  370  code Navbar.jsx
+  371  cd WithinBlack-White/
+  372  ls
+  373  cd backend/
+  374  cd src/
+  375  code .env
+  376  cd ..
+  377  npm install dotenv
+  378  npm i mongoose@8.14.3
+  379  npm run dev
+  380  npm run dev
+  381  npm run dev
+  382  cd ..
+  383  git add *
+  384  git commit -m"2hrs"
+  385  git push
+  386  cd backend/
+  387  ls
+  388  cd src
+  389  cd ..
+  390  npm run dev
+  391  cd ..
+  392  ls
+  393  cd frontend/
+  394  ls
+  395  cd withinBlackandWhite/
+  396  ls
+  397  cd ..
+  398  cd ..
+  399  git add *
+  400  git commit -m"temp save"
+  401  git push
+  402  clear
+  403  ls
+  404  history > history.txt
+  405  npm create vite@latest tictactoe
+  406  cd tictactoe
+  407  npm install
+  408  ls
+  409  cd src
+  410  ls
+  411  mkdir components
+  412  code Board.jsx
+  413  code Square.jsx
+  414  cd ..
+  415  npm run dev
+  416  npm run run build
+  417  npm run build
+  418  ls
+  419  cd tictactoe/
+  420  ls
+  421  cd src
+  422  ls
+  423  cd components/
+  424  code Header.jsx
+  425  code Game.jsx
+  426  ls
+  427  cd front
+  428  cd frontend/
+  429  ls
+  430  cd withinBlackandWhite/
+  431  ls
+  432  npm run dev
+  433  npm run dev
+  434  git add .
+  435  git commit -m"frontend changed"
+  436  git push
+  437  npm run dev
+  438  npm run dev
+  439  npm run dev
+  440  vite --force
+  441  cd ../../..
+  442  ls
+  443  cd WithinBlack-White/
+  444  ;s
+  445  ls
+  446  cd frontend
+  447  ls
+  448  vite --force
+  449  npm run dev -- --force
+  450  npm run dev
+  451  cd withinBlackandWhite/
+  452  ls
+  453  npm run dev -- --force
+  454  npm run dev -- --force
+  455  rm -rf node_modules/.vite
+  456  npm run dev -- --force
+  457  npm run dev -- --force
+  458   cd ../..
+  459  ls
+  460  git add *
+  461  git commit -m"removed some images, added cool animation"
+  462  git push
+  463  npm run dev
+  464  cd frontend/
+  465  npm run dev
+  466  cd withinBlackandWhite/
+  467  npm run dev
+  468  ls
+  469  cd backend
+  470  ls
+  471  cat package.json 
+  472  npm run dev
+  473  npm run dev
+  474  npm i google-auth-library
+  475  npm run dev
+  476  npm run dev
+  477  tmutil listlocalsnapshots /
+  478  tmutil listlocalsnapshots /
+  479  ls
+  480  cd Library/
+  481  ls
+  482  cd "Application Support"/
+  483  ls
+  484  sudo rm -rf /private/var/log/*
+  485  sudo rm -rf /private/var/log/*
+  486  sudo rm -rf /private/var/tmp/*
+  487  sudo rm -rf /private/var/folders/*
+  488  sudo mdutil -E /
+  489  sudo rm -rf /macOS\ Install\ Data
+  490  sudo du -xhd1 / | sort -h
+  491  sudo rm -rf /Library/Caches/*
+  492  echo "ARCH: $(uname -m)"; echo "OS: $(sw_vers -productVersion)"; echo "CLANG: $(clang --version 2>/dev/null | head -n1 || echo 'not found')"; echo "BREW: $(command -v brew >/dev/null && brew --version | head -n1 || echo 'not found')"; echo "G++: $(g++ --version 2>/dev/null | head -n1 || echo 'not found')"
+  493  cat > /tmp/cpp20_test.cpp << 'EOF'
+  494  clang++ -std=c++20 /tmp/cpp20_test.cpp -o /tmp/cpp20_test -pthread
+  495  if [ $? -eq 0 ]; then /tmp/cpp20_test; else echo "compile failed"; fi
+  496  /tmp/cpp20_test || true
+  497  cat > /tmp/cpp20_test.cpp << 'EOF'
+  498  clang++ -std=c++20 /tmp/cpp20_test.cpp -o /tmp/cpp20_test -pthread
+  499  if [ $? -eq 0 ]; then /tmp/cpp20_test; else clang++ -std=c++20 /tmp/cpp20_test.cpp -o /tmp/cpp20_test -pthread 2>&1 | sed -n '1,200p'; fi
+  500  /tmp/cpp20_test || true
+  501  history > history.txt
