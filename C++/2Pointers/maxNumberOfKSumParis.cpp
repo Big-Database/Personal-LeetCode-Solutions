@@ -22,6 +22,7 @@ public:
         while(left < right){
             int sum = nums[left]+nums[right]; 
             if(sum == k){
+                count++; 
                 left++; 
                 right--; 
             }else if(sum > k){

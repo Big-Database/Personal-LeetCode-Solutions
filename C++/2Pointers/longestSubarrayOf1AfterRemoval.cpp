@@ -5,6 +5,7 @@ class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
         bool removed = false; 
+        bool zeroFound = false; 
         int subarray_len = 0; 
         int max = 0; 
         int slow, fast = 0; 
@@ -14,10 +15,13 @@ public:
                 subarray_len = 0; 
                 removed = false; 
                 fast = slow; 
+                zeroFound = true; 
             }else if(nums[fast] == 0 && !removed){
                 removed = true; 
                 slow = fast+1; 
                 fast++; 
+                zeroFound = true; 
+
             }
             else{
                 subarray_len++; 
@@ -25,7 +29,8 @@ public:
             }
         }
         max = subarray_len > max? subarray_len: max; 
-        return max; 
+        
+        return zeroFound?max:max-1; 
     }
 };
 
