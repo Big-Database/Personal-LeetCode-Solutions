@@ -42,3 +42,10 @@ public:
   }
 };
 
+void test() {
+    Solution s;
+    vector<string> v1 = {"flower","flow","flight"};
+    cout << s.longestCommonPrefixAttempt2(v1) << "\n"; // expected: "fl"
+    vector<string> v2 = {"dog","racecar","car"};
+    cout << s.longestCommonPrefixAttempt2(v2) << "\n"; // expected: ""
+}

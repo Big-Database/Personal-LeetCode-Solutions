@@ -35,6 +35,14 @@ public:
     }
 };
 
+void test() {
+    Solution s;
+    vector<int> n1 = {1,2,3,4};
+    cout << s.maxOperations(n1, 5) << "\n"; // expected: 2
+    vector<int> n2 = {3,1,3,4,3};
+    cout << s.maxOperations(n2, 6) << "\n"; // expected: 1
+}
+
 /*
 
 Ok so my solution is we sort the array, then start on opposite ends 

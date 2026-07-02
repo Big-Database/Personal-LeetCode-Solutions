@@ -21,12 +21,15 @@ Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 */
 
 class Solution{
-    public: 
-    int twosum(vector<int> nums, int target){
-        
+    public:
+    vector<int> twoSum(vector<int> nums, int target){
+        // TODO: not yet implemented
+        return {};
     }
 };
 
-int main(){
-
+void test() {
+    Solution s;
+    auto r = s.twoSum({2,7,11,15}, 9);
+    cout << "[" << r[0] << "," << r[1] << "]\n"; // expected: [0,1]
 }

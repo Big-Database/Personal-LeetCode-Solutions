@@ -41,7 +41,16 @@ public:
         }
         ptr1 = write_to_array(chars,length,++ptr1); 
 
-        return ptr1;  
+        return ptr1;
     }
-
 };
+
+void test() {
+    Solution s;
+    vector<char> c1 = {'a','a','b','b','c','c','c'};
+    cout << s.compress(c1) << "\n"; // expected: 6  (a2b2c3)
+    vector<char> c2 = {'a'};
+    cout << s.compress(c2) << "\n"; // expected: 1
+    vector<char> c3 = {'a','b','b','b','b','b','b','b','b','b','b','b','b'};
+    cout << s.compress(c3) << "\n"; // expected: 4  (ab12)
+}

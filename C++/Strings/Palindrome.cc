@@ -43,6 +43,13 @@ public:
     }
 };
 
+void test() {
+    Solution s;
+    cout << s.longestPalindrome("babad") << "\n"; // expected: "bab" or "aba"
+    cout << s.longestPalindrome("cbbd") << "\n";  // expected: "bb"
+    cout << s.longestPalindrome("a") << "\n";     // expected: "a"
+}
+
 /*
 
 we essentially need to know when the left side starts 

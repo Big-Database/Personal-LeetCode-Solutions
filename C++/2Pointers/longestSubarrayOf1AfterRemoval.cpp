@@ -34,6 +34,16 @@ public:
     }
 };
 
+void test() {
+    Solution s;
+    vector<int> n1 = {1,1,0,1};
+    cout << s.longestSubarray(n1) << "\n"; // expected: 3
+    vector<int> n2 = {0,1,1,1,0};
+    cout << s.longestSubarray(n2) << "\n"; // expected: 3
+    vector<int> n3 = {1,1,1};
+    cout << s.longestSubarray(n3) << "\n"; // expected: 2
+}
+
 // 0 0 0 0 0 1
 /*
 Ok so this is under 2 pointers 

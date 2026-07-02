@@ -19,11 +19,11 @@ class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
 
-        int zero_ptr = 0; 
+        int zero_ptr = 0;
         for(u_int i = 0; i < nums.size(); i++){
             if(nums[i] != 0) {
-                nums[zero_ptr] = nums[i]; 
-                zero_ptr++; 
+                nums[zero_ptr] = nums[i];
+                zero_ptr++;
             }
         }
         for(u_int i = zero_ptr; i < nums.size(); ++i){
@@ -31,3 +31,13 @@ public:
         }
     }
 };
+
+void test() {
+    Solution s;
+    vector<int> n1 = {0,1,0,3,12};
+    s.moveZeroes(n1);
+    print_int_vec(n1); // expected: [ 1, 3, 12, 0, 0 ]
+    vector<int> n2 = {0};
+    s.moveZeroes(n2);
+    print_int_vec(n2); // expected: [ 0 ]
+}

@@ -33,6 +33,14 @@ class Solution{
         }
 }; 
 
+void test() {
+    Solution s;
+    vector<int> h1 = {1,8,6,2,5,4,8,3,7};
+    cout << s.maxArea(h1) << "\n"; // expected: 49
+    vector<int> h2 = {2,6,4,6,8,9,6,4,3};
+    cout << s.maxArea(h2) << "\n"; // expected: 30
+}
+
 /*
 [2,6,4,6,8,9,6,4,3]
 [0,1,2,3,4,5,6,7,8]

@@ -70,3 +70,9 @@ public:
         return ans;
     }
 };
+
+void test() {
+    Solution s;
+    cout << s.longestCommonPrefixAfterAtLeastOneRemovalAttempt2("brro", "bro") << "\n"; // expected: 3
+    cout << s.longestCommonPrefixAfterAtLeastOneRemovalAttempt2("1bro", "bro") << "\n"; // expected: 3
+}

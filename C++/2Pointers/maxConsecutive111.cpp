@@ -29,6 +29,14 @@ public:
     }
 };
 
+void test() {
+    Solution s;
+    vector<int> n1 = {1,1,1,0,0,0,1,1,1,1,0};
+    cout << s.longestOnes(n1, 2) << "\n"; // expected: 6
+    vector<int> n2 = {0,0,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,1,1};
+    cout << s.longestOnes(n2, 3) << "\n"; // expected: 10
+}
+
 /*
 
 Ok same concept except what if now it's not true false but k flips 

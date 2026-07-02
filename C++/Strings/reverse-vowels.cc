@@ -29,6 +29,8 @@ public:
     }
 
 
+    string reverseVowels(string s) { return reverseVowel2(s); }
+
     string reverseVowels1(string s) {
         string reverse; 
         std::unordered_set<char> vowels = {'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'}; 
@@ -44,6 +46,12 @@ public:
                 ++k; 
             }
         }
-    return s; 
+    return s;
     }
 };
+
+void test() {
+    Solution s;
+    cout << s.reverseVowels("hello") << "\n";  // expected: "holle"
+    cout << s.reverseVowels("leetcode") << "\n"; // expected: "leotcede"
+}

@@ -16,5 +16,11 @@ public:
         return products; 
     }
 
-    
 };
+
+void test() {
+    Solution s;
+    vector<int> n1 = {1,2,3,4};
+    auto r1 = s.productExceptSelf(n1);
+    print_int_vec(r1); // expected: [ 24, 12, 8, 6 ]
+}

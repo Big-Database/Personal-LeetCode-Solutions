@@ -14,6 +14,13 @@ public:
     }
 };
 
+void test() {
+    Solution s;
+    cout << s.isSubsequence("abc", "ahbgdc") << "\n"; // expected: 1
+    cout << s.isSubsequence("axc", "ahbgdc") << "\n"; // expected: 0
+    cout << s.isSubsequence("ote", "onetwothree") << "\n"; // expected: 1
+}
+
 /*
 
 Given two strings s and t, return true if s is a subsequence of t, or false otherwise.
