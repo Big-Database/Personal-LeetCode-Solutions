@@ -34,3 +34,4 @@
 |---------|------|
 | Top K Frequent Elements (#347) | [topKFrequent.py](Python/topKFrequent.py) |
 | Group Anagrams (#49) | [groupAnagrams.py](Python/groupAnagrams.py) |
+| Longest Substring Without Repeating Characters (#3) | [lengthOfLongestSubstring.py](Python/lengthOfLongestSubstring.py) |
