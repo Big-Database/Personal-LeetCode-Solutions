@@ -1,0 +1,66 @@
+"""
+If it's circular when we remove the first item the head shifts, 
+
+We can keep track of a front and rear, then 
+
+We essentially want to use the space at the front, we could just create a list of size x 
+
+have the front and rear point to the same value and or store the length 
+
+If we store halfway then remove the front element now we shift the head. 
+The rear is maintained 
+
+If we add a element 
+
+
+"""
+
+class MyCircularQueue:
+
+    def __init__(self, k: int):
+        self.cq = [0]*k
+        self.head = 0 
+        self.tail = 0 
+        self.capacity = k 
+        self.filled = 0
+
+    def enQueue(self, value: int) -> bool:
+        if self.capacity != self.filled:
+            self.cq[self.tail] = value
+            self.tail = (self.tail+1) % self.capacity
+            self.filled += 1
+            return True 
+        return False
+        
+
+    def deQueue(self) -> bool:
+        if self.filled == 0:
+            return False 
+        self.head = (self.head +1) % self.capacity
+        self.filled -= 1
+        return True
+        
+
+    def Front(self) -> int:
+        return -1 if self.isEmpty() else self.cq[self.head]
+        
+
+    def Rear(self) -> int:
+        return -1 if self.isEmpty() else self.cq[self.tail-1%self.capacity]
+
+    def isEmpty(self) -> bool:
+        return self.filled == 0
+        
+
+    def isFull(self) -> bool:
+        return self.filled == self.capacity
+
+
+# Your MyCircularQueue object will be instantiated and called as such:
+# obj = MyCircularQueue(k)
+# param_1 = obj.enQueue(value)
+# param_2 = obj.deQueue()
+# param_3 = obj.Front()
+# param_4 = obj.Rear()
+# param_5 = obj.isEmpty()
+# param_6 = obj.isFull()
